@@ -1,0 +1,16 @@
+.sell-btn-active {
+    @apply bg-red-400;
+}
+
+
+.sell-btn-inactive {
+    @apply bg-gray-400;
+}
+
+.buy-btn-active {
+    @apply bg-green-500 cursor-pointer;
+}
+
+.buy-btn-inactive {
+    @apply bg-green-200 cursor-default;
+}
